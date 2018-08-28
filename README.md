@@ -1,4 +1,5 @@
 # TruproAngular
+A basic AngularJS website module for querying transaction data from the Etheruem Blockchain. 
 
 ## Getting Started
 npm install trupro-angular
